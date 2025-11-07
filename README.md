@@ -86,7 +86,7 @@ This project is an improved version of Sipeed’s official face recognition prog
 
 
 ![Demo Pic1](1.jpeg)
-*The Debugging Interface of **MaixPy IDE**, frameBuffer is more blurred than the real image*
+*The Debugging Interface of **MaixPy IDE**, frameBuffer is more blurred than the actual image*
 
 ---
 
