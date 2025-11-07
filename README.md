@@ -40,7 +40,7 @@ This project is an improved version of Sipeed’s official face recognition prog
   - Optional display and SD card module
 
 - **Software:**
-  - [MaixPy IDE](https://maixpy.sipeed.com/en/get_started/maixpyide.html)
+  - [MaixPy IDE](https://wiki.sipeed.com/soft/maixpy/en/get_started/env_maixpyide.html)
   - Python 3.x (for code editing or serial tools)
   - Arduino IDE (for ESP32 or other server-side MCU)
   - Optional local or remote HTTP server
