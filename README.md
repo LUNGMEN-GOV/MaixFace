@@ -14,6 +14,8 @@ It supports persistent face feature storage, remote face enrollment, automatic s
 
 The project aims to provide a modular, open-source framework for embedded AI vision control systems. It is compatible with various microcontrollers and servers, including ESP32, PCs, and cloud endpoints.
 
+This project is an improved version of Sipeed’s official face recognition program, with added features such as offline face data storage (requires an SD card). For the original project, please refer to [MaixHub](https://maixhub.com/model/zoo/60).
+
 ---
 
 ## ✨ Features
