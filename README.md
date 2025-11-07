@@ -59,7 +59,7 @@ The project aims to provide a modular, open-source framework for embedded AI vis
 
 3. Upload all scripts and model files to your Maixduino board.
 
-4. *(Optional)* Set up an ESP32 or PC server to receive HTTP trigger packets for access control or automation.
+4. *(Optional)* Set up an ESP32 or PC server to receive HTTP trigger packets for access control or automation.The example program for the ESP32 server used for remote face enrollment has been uploaded(in the Example file),and you can integrate it with your existing server to test whether remote face enrollment works properly.
 
 ---
 
